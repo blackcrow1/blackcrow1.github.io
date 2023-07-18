@@ -1,1 +1,11 @@
-
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J8647L48BZ.kr.co.gpmobile.SkeletoniOS",
+        "paths": [ "NOT /e/*", "*", "/" ]
+      }
+    ]
+  }
+}
