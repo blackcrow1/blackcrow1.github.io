@@ -1,13 +1,13 @@
 {
-  applinks: {
-    details: [
+  "applinks": {
+    "details": [
       {      	   
-        appIDs: [
+        "appIDs": [
         	"J8647L48BZ.kr.co.gpmobile.SkeletoniOS"
         ],
-        components: [
+        "components": [
             {
-                /: "*"
+                "/": "*"
             }
         ]
       }
